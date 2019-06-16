@@ -1,6 +1,6 @@
 package AV1.AV1;
 
-public class Calculator 
+public class Calcy 
 {
 
 	    public long add(long first, long second) {

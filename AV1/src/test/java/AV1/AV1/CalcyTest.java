@@ -5,14 +5,14 @@ import junit.framework.TestCase;
 //import static org.junit.Assert.assertThat;
 
 
-public class CalculatorTest extends TestCase 
+public class CalcyTest extends TestCase 
 {
 	
-	  private Calculator classUnderTest;
+	  private Calcy classUnderTest;
 
 	  
 	  public void setUp() throws Exception {
-	    this.classUnderTest = new Calculator();
+	    this.classUnderTest = new Calcy();
 	  }
 
 	  
