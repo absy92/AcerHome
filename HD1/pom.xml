@@ -3,4 +3,8 @@
   <groupId>HomeDemo</groupId>
   <artifactId>HD1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <properties>
+    <sonar.organization>absypalm</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  </properties>
 </project>
